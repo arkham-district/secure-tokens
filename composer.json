@@ -23,7 +23,7 @@
     "ext-sodium": "*"
   },
   "require-dev": {
-    "orchestra/testbench": "^9.0|^10.0",
+    "orchestra/testbench": "^8.0|^9.0|^10.0",
     "pestphp/pest": "^3.0",
     "pestphp/pest-plugin-laravel": "^3.0"
   },

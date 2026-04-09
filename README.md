@@ -2,7 +2,6 @@
 
 [![Tests](https://github.com/arkham-district/secure-tokens/actions/workflows/tests.yml/badge.svg)](https://github.com/arkham-district/secure-tokens/actions/workflows/tests.yml)
 [![Latest Version on Packagist](https://img.shields.io/packagist/v/arkham-district/secure-tokens.svg)](https://packagist.org/packages/arkham-district/secure-tokens)
-[![License](https://img.shields.io/packagist/l/arkham-district/secure-tokens.svg)](https://packagist.org/packages/arkham-district/secure-tokens)
 
 API key authentication for Laravel using **Ed25519 asymmetric cryptography**. A secure alternative to Sanctum with clean token formats and optional request signing.
 

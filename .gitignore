@@ -9,3 +9,4 @@ composer.phar
 .env
 coverage/
 .idea
+composer.lock
